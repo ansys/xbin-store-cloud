@@ -21,6 +21,6 @@ eureka:
 # REDIS (RedisProperties)
 redis:
   cluster: false
-  single-host: 219.230.50.94
-  single-port: 6379
+  single-host: 192.168.0.150
+  single-port: 8000
   password:
